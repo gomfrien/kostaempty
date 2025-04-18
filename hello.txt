@@ -1,0 +1,6 @@
+initial git
+cout>>out>>gondfjefe
+
+#include "stdio.h"
+
+bbbb

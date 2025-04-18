@@ -6,4 +6,4 @@ cout>>out>>gondfjefe
 bbb
 
 
-add ccc 
+add ccc exe

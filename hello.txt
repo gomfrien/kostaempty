@@ -1,9 +1,4 @@
 initial git
 cout>>out>>gondfjefe
 
-#include "stdio.h"
-
-bbb
-
-
-add ccc 
+#include "stdi
